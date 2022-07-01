@@ -4,7 +4,7 @@
 
 
 ## 💁‍♀️:  About me
--  student: I am currently enrolled as a student in Web Dev at the WBS Coding School in Berlin and I am on my 30 day commit challenge.
+- :notebook: I am currently enrolled as a student in Web Dev at the WBS Coding School in Berlin and I am on my 30 day commit challenge.
 - :trophy: TU Berlin graduate in theoretical physics
 - :technologist: I love using modern technology and I am very curious about any new developments in computer science.
 - :computer: I am learning every day. It never stops. 
