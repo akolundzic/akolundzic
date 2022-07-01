@@ -1,13 +1,13 @@
-<h1 align="center">Ia am Vanessa  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I am Vanessa  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
 
 ## 💁‍♀️:  About me
--  student: I am currently enrolled as a student in Web Dev at the WBS Coding School in Berlin.
+-  student: I am currently enrolled as a student in Web Dev at the WBS Coding School in Berlin and I am on my 30 day commit challenge.
 - :trophy: TU Berlin graduate in theoretical physics
 - :technologist: I love using modern technology and I am very curious about any new developments in computer science.
-- :computer: I am learning every day. It never stops.
+- :computer: I am learning every day. It never stops. 
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 
 <br>
