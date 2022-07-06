@@ -5,7 +5,6 @@
 
 ## 💁‍♀️:  About me
 - :notebook: I am currently enrolled as a student in [Full-Stack Web & App Development](https://www.wbstraining.de/weiterbildung-full-stack-web-und-app-development-english/) at the [WBS CODING SCHOOL](https://www.wbscodingschool.com/) in Berlin and I am on my 30 day commit challenge.
- at 
 - :trophy: TU Berlin graduate in theoretical physics
 - :technologist: I love using modern technology and I am very curious about any new developments in computer science.
 - :computer: I am learning every day. It never stops. 
