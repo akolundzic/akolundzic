@@ -39,7 +39,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akolundzic&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolundzic&&layout=compact)](https://github.com/akolundzic&/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolundzic&&layout=compact,theme=darkhub&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akolundzic&/github-readme-stats)
 
 
 
