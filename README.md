@@ -17,9 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akolundzic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akolundzic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/
-username=akolundzic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack:
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -40,8 +38,6 @@ username=akolundzic&theme=dark&hide_border=false&include_all_commits=true&count_
 
 ## 🏆 GitHub Trophies
 ![[Top Langs]](https://github-profile-trophy.vercel.app/?username=akolundzic&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolundzic&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akolundzic&/github-readme-stats)
 
 
 
