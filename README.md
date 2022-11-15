@@ -38,7 +38,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chinch42&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akolundzic&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
 
