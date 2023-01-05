@@ -15,7 +15,7 @@
 <!-- 💬 Ask me about -->
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolundzic&layout=compact&theme=dark&hide_border=false)](https://github.com/akolundzic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolundzic)](https://github.com/akolundzic/github-readme-stats)
 
 # 💻 Tech Stack:
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
