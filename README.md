@@ -17,9 +17,6 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolundzic&layout=compact&theme=dark&hide_border=false)](https://github.com/akolundzic/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=akolundzic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akolundzic&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolundzic)](https://github.com/akolundzic/github-readme-stats)
 # 💻 Tech Stack:
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
