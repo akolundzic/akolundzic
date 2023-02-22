@@ -1,4 +1,4 @@
-<h1 align="center">Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -8,7 +8,7 @@
 - :trophy: TU Berlin graduate in theoretical physics
 - :technologist: I love using modern technology and I am very curious about any new developments in computer science.
 - :computer: I am learning every day. It never stops. 
-- ::briefcase:g: I currently work as a Junior Java developer at DB Systel, Berlin.
+- ::briefcase: I currently work as a Junior Java developer at DB Systel, Berlin.
 
 <br>
 
