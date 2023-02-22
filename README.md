@@ -8,7 +8,7 @@
 - :trophy: TU Berlin graduate in theoretical physics
 - :technologist: I love using modern technology and I am very curious about any new developments in computer science.
 - :computer: I am learning every day. It never stops. 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- ::briefcase:g: I currently work as a Junior Java developer at DB Systel, Berlin.
 
 <br>
 
